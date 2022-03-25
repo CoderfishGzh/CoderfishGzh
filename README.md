@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CoderfishGzh
 - 👀 I’m interested in Operation System、Distribute compertur 
 - 🌱 I’m currently learning Rust and make some project
-
+- 🌱 my blog ：[gzh's chinese blog](https://gzhcoming.gitee.io/)
 
 <!---
 CoderfishGzh/CoderfishGzh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
