@@ -1,9 +1,7 @@
 
 <!-- knock code pictures 敲代码的图片 -->
- 
 <div align=center>
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoderfishGzh&theme=github_dark">
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif">
 </div>
 
 #  🙋 Hello    
