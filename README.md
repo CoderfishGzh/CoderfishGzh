@@ -13,8 +13,8 @@
     <img width="800" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderfishGzh&theme=dracula">
 </div>
 <div align=center>
-    <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoderfishGzh&theme=github_dark">
-    <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoderfishGzh&theme=github_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoderfishGzh&theme=github_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoderfishGzh&theme=github_dark">
 </div>
 
 <!--  skill badge 技能徽章 -->
