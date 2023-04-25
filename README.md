@@ -1,3 +1,10 @@
+
+<!-- knock code pictures 敲代码的图片 -->
+<div align=center>
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+</div>
+
+#  🙋 Hello    
 - 👋 Hi, I’m @CoderfishGzh
 - 👀 I’m interested in Operation System、Distribute System and the Datebase System
 - 🌱 I’m currently learning(focusing) Rust、Go、C++ and trying to making some funny project
@@ -16,8 +23,18 @@
     <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CoderfishGzh&theme=github_dark&utcOffset=8">
 </div>
 
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=CoderfishGzh" /> </div>
 
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=CoderfishGzh" /> </div>
 
+<!--  skill badge 技能徽章 -->
+💪 正在学习: 
+![C++ Badge](https://img.shields.io/badge/-C%2B%2B-green?logo=cplusplus&style=flat)
+![Golang Badge](https://img.shields.io/badge/-Golang-blue?logo=go&style=flat)
+![Rust Badge](https://img.shields.io/badge/-Rust-orange?logo=rust&style=flat)
+![MySQL Badge](https://img.shields.io/badge/-MySQL-lightgrey?logo=mysql&style=flat)
+![Redis Badge](https://img.shields.io/badge/-Redis-red?logo=redis&style=flat)
+![RucksDB Badge](https://img.shields.io/badge/-RucksDB-092E20?logo=rocksdb&style=flat)
 
 
 
