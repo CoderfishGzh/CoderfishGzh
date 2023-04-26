@@ -13,11 +13,11 @@
 
 
 <p align="center">
-    <img width="50%" max-width="800" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderfishGzh&theme=dracula">
+    <img width="100%" max-width="800" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderfishGzh&theme=dracula">
 </p>
 <p align="center">
-    <img width="25%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoderfishGzh&theme=github_dark">
-    <img width="25%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoderfishGzh&theme=github_dark">
+    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoderfishGzh&theme=github_dark">
+    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoderfishGzh&theme=github_dark">
 </p>
 
 
