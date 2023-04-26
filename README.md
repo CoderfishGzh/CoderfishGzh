@@ -4,18 +4,22 @@
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif">
 </div>
 
+
+
 #  🙋 Hello    
 - 👋 Hi, I’m @CoderfishGzh
 - 👀 I’m interested in Operation System、Distribute System、the Datebase System and Block-Chain
 - 🌱 I’m currently learning(focusing) Rust、Go、C++ and trying to making some funny project
 
-<div align=center>
-    <img width="800" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderfishGzh&theme=dracula">
-</div>
-<div align=center>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoderfishGzh&theme=github_dark">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoderfishGzh&theme=github_dark">
-</div>
+
+<p align="center">
+    <img width="50%" max-width="800" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderfishGzh&theme=dracula">
+</p>
+<p align="center">
+    <img width="25%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoderfishGzh&theme=github_dark">
+    <img width="25%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoderfishGzh&theme=github_dark">
+</p>
+
 
 <!--  skill badge 技能徽章 -->
 <!-- <center> 💪 正在学习 </center> -->
