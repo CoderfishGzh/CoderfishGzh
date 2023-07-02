@@ -17,15 +17,13 @@
 ![Redis Badge](https://img.shields.io/badge/-Redis-red?logo=redis&style=flat)
 ![RucksDB Badge](https://img.shields.io/badge/-RucksDB-092E20?logo=rocksdb&style=flat)
 
-<p align="center">
-    <img width="100%" max-width="800" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderfishGzh&theme=dracula">
-</p>
-<p align="center">
-    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoderfishGzh&theme=github_dark">
-    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoderfishGzh&theme=github_dark">
-</p>
 
 
+
+
+[![Contribution languages](https://guozhihao-githubdashbord.vercel.app/widgets/contribution-most-used-languages/thumbnail.png)](https://guozhihao-githubdashbord.vercel.app/widgets/contribution-most-used-languages)
+[![Contribution monthly](https://guozhihao-githubdashbord.vercel.app/widgets/contribution-monthly/thumbnail.png)](https://guozhihao-githubdashbord.vercel.app/widgets/contribution-monthly)
+[![Contribution time distribution](https://guozhihao-githubdashbord.vercel.app/widgets/contribution-time-distribution/thumbnail.png)](https://guozhihao-githubdashbord.vercel.app/widgets/contribution-time-distribution)
 
 
 
