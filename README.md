@@ -7,26 +7,16 @@
 
 
 #  🙋 Hello    
-- 👋 Hi, I’m @CoderfishGzh
-- 👀 I’m interested in Operation System、Distribute System、the Datebase System and Block-Chain
-- 🌱 I’m currently learning(focusing) Rust、Go、C++ and trying to making some funny project  
-![C++ Badge](https://img.shields.io/badge/-C%2B%2B-green?logo=cplusplus&style=flat)
-![Golang Badge](https://img.shields.io/badge/-Golang-blue?logo=go&style=flat)
-![Rust Badge](https://img.shields.io/badge/-Rust-orange?logo=rust&style=flat)
-![MySQL Badge](https://img.shields.io/badge/-MySQL-lightgrey?logo=mysql&style=flat)
-![Redis Badge](https://img.shields.io/badge/-Redis-red?logo=redis&style=flat)
-![RucksDB Badge](https://img.shields.io/badge/-RucksDB-092E20?logo=rocksdb&style=flat)
+👋 Student at [Shanghai Polytechnic University](https://www.sspu.edu.cn/)   
+   
+ 👀 Interested in Operation System、Distribute System、Datebase System and Block-Chain   
+    
+ 📫 Email: [335247945@qq.com](mailto:335247945@qq.com)     
 
-
-
-
-
-[![Contribution languages](https://guozhihao-githubdashbord.vercel.app/widgets/contribution-most-used-languages/thumbnail.png)](https://guozhihao-githubdashbord.vercel.app/widgets/contribution-most-used-languages)
-[![Contribution monthly](https://guozhihao-githubdashbord.vercel.app/widgets/contribution-monthly/thumbnail.png)](https://guozhihao-githubdashbord.vercel.app/widgets/contribution-monthly)
-[![Contribution time distribution](https://guozhihao-githubdashbord.vercel.app/widgets/contribution-time-distribution/thumbnail.png)](https://guozhihao-githubdashbord.vercel.app/widgets/contribution-time-distribution)
-
-
-
+#### 👷 Check out what I'm currently working on \ studing 
+- [MIT 15-445](https://github.com/CoderfishGzh/CMU15-445-2022) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course.
+- [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database.
+- [sspu-cryptography-research-group/simpleDB](https://github.com/sspu-cryptography-research-group/simpleDB) - Handwriting a database from 0 to 1 using Golang
 
 
 <!---
