@@ -20,8 +20,8 @@
 
 #### 🔨 common language analysis 
 <div align=center>
-<img width="450" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoderfishGzh&theme=github_dark">
-<img width="450" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoderfishGzh&theme=github_dark">
+<img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoderfishGzh&theme=github_dark">
+<img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoderfishGzh&theme=github_dark">
 <div>
 <!---
 CoderfishGzh/CoderfishGzh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
