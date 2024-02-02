@@ -15,7 +15,7 @@
 
 #### 👷 Check out what I'm currently working on \ studing 
 - [MIT 15-445](https://github.com/CoderfishGzh/CMU15-445-2022) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course.
-- [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database.
+- [Mini-LSM]() - KV database based on LSM.
 - [sspu-cryptography-research-group/simpleDB](https://github.com/sspu-cryptography-research-group/simpleDB) - Handwriting a database from 0 to 1 using Golang
 
 #### 🔨 common language analysis 
